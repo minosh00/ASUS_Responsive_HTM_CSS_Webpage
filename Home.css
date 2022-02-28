@@ -1022,8 +1022,87 @@ width: 252px;
  
 }
 
+.laptop{
+  font-weight: bold;
+  margin-top: -560px;
+  margin-left:690px;
+  color:#f3f3f3;
+  font-size:18px;
+  font-family: poppins;
+}
+
+.laptop_1{
+  margin-top: 40px;
+  margin-left:690px;
+  color:#f3f3f3;
+  font-size:18px;
+  font-family: poppins;
+}
 
 
+
+
+
+
+.dest{
+
+  margin-right: -200px;
+  margin-left: 200px;
+  margin-top: 300px;
+}
+
+
+.dest1{
+
+  margin-right: -170px;
+  margin-left: 400px;
+  margin-top: 301px;
+}
+
+
+.dest2{
+
+  margin-right: -170px;
+  margin-left: 700px;
+  margin-top: 358px;
+}
+
+.dest3{
+
+  margin-right: -170px;
+  margin-left: 1000px;
+  margin-top: 168px;
+}
+
+.pay{
+ margin-top: 380px;
+ margin-left: 50px;
+}
+
+
+.con{
+  margin-top: -170px;
+  margin-left: 1550px;
+}
+.visa{
+  margin-left:50px;
+  margin-top: 60px;
+}
+.comm{
+  margin-left:100px;
+  margin-top: 20px;
+}
+
+
+.gen{
+  margin-left:150px;
+  margin-top: -120px;
+}
+
+.social{
+  margin-left:550px;
+  margin-top: -120px;
+}
 
 
 
