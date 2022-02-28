@@ -907,6 +907,42 @@ margin-top: 20px;
 }
 
 
+
+.newsimage{
+
+margin-left: 30px;
+margin-top: 90px;
+width: 2520px;
+height: 382px;
+
+}
+
+.newstext1{
+  font-size: 30px;
+  font-family: poppins;
+  font-weight: bold;
+  margin-top:-280px;
+  margin-left: 550px;
+  fill: #ffffff;
+  width: 392px;
+  height: 32px;
+  color: #ffffff;
+}
+
+.newstext2{
+  font-size: 18px;
+  font-family: poppins;
+  margin-top:30px;
+  margin-left: 550px;
+  fill: #ffffff;
+  width: 840px;
+  height: 169px;
+  color: #ffffff;
+}
+
+
+
+
 .banner_word1{
   margin-top: -600px;
   margin-left: 80px;
@@ -939,7 +975,13 @@ margin-top: 20px;
   
   
 
+.topnav{
+  padding-left: 1210px;
+  padding-top: -600px;
+  margin-top: -175px;
   
+  margin-left: 100px;
+}
 
 
 
