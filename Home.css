@@ -986,11 +986,41 @@ height: 382px;
 
 
 
+.footer_image{
+  margin-top:200px;
+  margin-left: 40px;
+  width: 2220px;
+  height: 743px;
+}
 
+.asus1{
+  margin-top:-1000px;
+  margin-bottom: 400px;
+  margin-left:100px;
+}
 
+.foot_text1{
 
+  margin-top: -400px;
+  margin-left:120px;
+  color:#f3f3f3;
+  font-size:30px;
+  font-weight:bold;
+  font-family: poppins;
 
+ 
+}
+.foot_text2{
 
+  margin-top: 40px;
+  margin-left:120px;
+  color:#f3f3f3;
+width: 252px;
+  font-size:18px;
+  font-family: poppins;
+  
+ 
+}
 
 
 
