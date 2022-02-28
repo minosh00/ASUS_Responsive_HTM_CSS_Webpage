@@ -630,6 +630,7 @@ color:#202020;
 
   fill: transparent;
   margin-top: 0px;
+  
 }
 .backpic11{
   width: 367px;
@@ -748,6 +749,203 @@ color:#202020;
   fill-rule: evenodd;
 
 }
+
+
+.rectangle_laptopcart {
+  height: 330px;
+  width: 400px;
+  margin-top: -260px;
+  margin-left:1040px;
+  background-color: #f3f3f3;
+  margin-bottom: 1000px;
+  fill-rule: evenodd;
+  bottom: 1000px;
+  padding:  30px;
+  margin-right: -10px;
+
+  
+
+}
+
+
+.rectangle_laptopcart2 {
+  height: 330px;
+  width: 400px;
+  margin-top: -1331px;
+  margin-left:1450px;
+  background-color: #f3f3f3;
+  margin-bottom: 2000px;
+  fill-rule: evenodd;
+  bottom: 900px;
+  padding:  30px;
+  margin-right: -10px;
+
+  
+
+}
+
+.banner_word_button{
+
+  background-color: #202020; 
+
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  width: 200px;
+  height:50px;  
+  fill: #202020;
+  border-radius: 20px;
+  margin-left: 45px;
+  font-size: 16px;
+}
+
+.line{
+  margin-top: 40px;
+}
+
+
+
+.LOCAL_VIDEO_REVIEWS{
+
+  margin-left: 50px;
+  width: 870px;
+  height: 80px;
+  margin-top: 100px;
+  font-size: 62px;
+  font-weight: bold;
+  fill: #202020;
+  font-family: poppins;
+
+}
+
+
+
+
+.LOCAL_VIDEO_REVIEWS_1{
+
+  margin-left: 1071px;
+  width: 870px;
+  height: 80px;
+  margin-top: -60px;
+  font-size: 18px;
+ stroke-width: 1;
+  fill: #707070;
+  
+
+}
+
+
+
+.youtube1{
+  width:486px;
+  height: 275px;
+  margin-left: 47px;
+}
+
+
+.youtube2{
+  width:486px;
+  height: 275px;
+  margin-left: 17px;
+}
+
+.youtube3{
+  width:498px;
+  height: 280px;
+  margin-left: 27px;
+}
+
+.youtube4{
+  width:484px;
+  height: 272px;
+  margin-left: 37px;
+}
+
+
+.youtubetext1{
+
+fill: #000101;
+font-size: 18px;
+font-family: poppins;
+margin-left: 50px;
+margin-top: 20px;
+
+}
+.youtubetext1_1{
+
+  fill: #000101;
+  font-size: 18px;
+  font-family: poppins;
+  margin-left: 50px;
+  margin-top: 20px;
+  
+  }
+
+
+
+.youtubetext1_2{
+
+  fill: #000101;
+  font-size: 18px;
+  font-family: poppins;
+  margin-left: 50px;
+  margin-top: 40px;
+  
+  }
+.youtube_text2{
+  margin-left: 510px;
+  margin-top: -165px;
+}
+
+.youtube_text3{
+  margin-left: 1020px;
+  margin-top: -165px;
+}
+.youtube_text4{
+  margin-left: 1550px;
+  margin-top: -165px;
+}
+
+
+.banner_word1{
+  margin-top: -600px;
+  margin-left: 80px;
+  stroke-width: 1;
+  fill:solid;
+  font-family: poppins;
+  font-size: 36px;
+  font-weight:bold;
+  }
+
+  .banner_word2{
+    margin-top: 0px;
+    margin-left: 80px;
+    stroke-width: 1;
+    fill:solid;
+    font-family: poppins;
+    font-size: 36px;
+    font-weight:bold;
+    }
+  
+    
+  .banner_word3{
+    margin-top: 20px;
+    margin-left: 80px;
+    stroke-width: 1;
+    fill:solid;
+    font-family: open sans;
+    font-size: 18px;
+    }
+  
+  
+
+  
+
+
+
+
+
+
 
 
 
