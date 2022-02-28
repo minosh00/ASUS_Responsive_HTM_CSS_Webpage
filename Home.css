@@ -994,14 +994,14 @@ height: 382px;
 }
 
 .asus1{
-  margin-top:-1000px;
-  margin-bottom: 400px;
+  margin-top:-900px;
+  margin-bottom: 1400px;
   margin-left:100px;
 }
 
 .foot_text1{
 
-  margin-top: -400px;
+  margin-top: -1400px;
   margin-left:120px;
   color:#f3f3f3;
   font-size:30px;
@@ -1075,15 +1075,46 @@ width: 252px;
 }
 
 .pay{
- margin-top: 380px;
+ margin-top: -190px;
  margin-left: 50px;
 }
 
+
+.footer_last1{
+  font-size: 18px;
+  margin-top: -17px;
+  margin-left:1770px;
+  fill: #ffffff;
+  color:#ffffff;
+
+}
+
+
+
+.footer_last{
+  font-size: 18px;
+  margin-top: 190px;
+  margin-left:70px;
+  fill: #ffffff;
+  color:#ffffff;
+}
 
 .con{
   margin-top: -170px;
   margin-left: 1550px;
 }
+
+
+
+.footer_images{
+
+margin-top: 340px;
+margin-left: 40px;
+height: 184px;
+
+}
+
+
 .visa{
   margin-left:50px;
   margin-top: 60px;
